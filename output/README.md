@@ -1,9 +1,9 @@
-# adfas
+# asdfas
 
-  license info
+  (license badge goes here)
   
   # Description
-  sadfasdf
+  asdfasdf
   
   # Table of Contents
   - [Installation](#installation)
@@ -15,22 +15,28 @@
   
   
   ## Installation
-  asdfasd
+  To install this application Run this command.
+  asdfas
   
   ## Usage
-  asdfsa
+  asdfas
   
   ## License
   Mozilla 2.0
   
   ## Contributing
-  asdfasd
+ 
+  asdfas
   
   
   ## Tests
-  asdf
+  Tests can be run using the following command.
+  fasdf
   
   ## Questions
-  [Email](mailto: asdf) 
-  [GitHub](https://github.com/asdf)
+  Any questions may be directed to my email below, feel free to visit my GitHub profile as well.  
+
+  Email:chance.heather@gmail.com   
+
+  [GitHub](https://github.com/hcruz77)
   

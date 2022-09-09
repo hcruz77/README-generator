@@ -15,10 +15,11 @@ function renderLicenseLink(license) { }
 function renderLicenseSection(license) { }
 
 // TODO: Create a function to generate markdown for README
+
 function generateMarkdown(answers) {
   return `# ${answers.title}
 
-  license info
+  (license badge goes here)
   
   # Description
   ${answers.description}
@@ -33,6 +34,7 @@ function generateMarkdown(answers) {
   
   
   ## Installation
+  To install this application Run this command.
   ${answers.installation}
   
   ## Usage
@@ -42,23 +44,23 @@ function generateMarkdown(answers) {
   ${answers.license}
   
   ## Contributing
+ 
   ${answers.contributing}
   
   
   ## Tests
+  Tests can be run using the following command.
   ${answers.tests}
   
   ## Questions
-  Any questions may be directed to my email below, feel free to visit my GitHub profile as well.
-  [Email](mailto: ${answers.email}) 
+  Any questions may be directed to my email below, feel free to visit my GitHub profile as well.  
+
+  Email: ${answers.email}   
+
   [GitHub](https://github.com/${answers.username})
   `;
 }
-//  if (!fs.existsSync('output')) {
-//    fs.mkdirSync('output');
-//  }
-//  fs.writeFileSync('output/README.md', template);
-//});
+
 
 module.exports = generateMarkdown;
 
