@@ -1,9 +1,9 @@
-# asdfas
+# README Generator
 
   (license badge goes here)
   
   # Description
-  asdfasdf
+  This is a command line application that accepts user input to create a README file.
   
   # Table of Contents
   - [Installation](#installation)
@@ -16,27 +16,27 @@
   
   ## Installation
   To install this application Run this command.
-  asdfas
+  use npm install -y then inquirer pkg.
   
   ## Usage
-  asdfas
+  Follow the prompts answering the questions and the README file will auto generate.
   
   ## License
-  Mozilla 2.0
+  MIT
   
   ## Contributing
  
-  asdfas
+  Any changes or improvements can be made by pull requests in GitHub.
   
   
   ## Tests
   Tests can be run using the following command.
-  fasdf
+  npm test command
   
   ## Questions
   Any questions may be directed to my email below, feel free to visit my GitHub profile as well.  
 
-  Email:chance.heather@gmail.com   
+  Email: chance.heather@gmail.com   
 
-  [GitHub](https://github.com/hcruz77)
+  GitHub Profile: (https://github.com/hcruz77)
   
