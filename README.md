@@ -5,7 +5,7 @@ This is a command-line application that accepts user input to create a README fi
 
 
 ## Usage
-The user follos the prompts answering the questions in the command line, once finished the README will auto-generate.
+The user follows the prompts answering the questions in the command line, once finished the README will auto-generate.
 
 
 ## Demo Link and Screenshot
